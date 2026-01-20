@@ -35,15 +35,15 @@ Interested in understanding how server-side logic and data integrity shape real 
 
 ### Match-Me
 Backend-heavy dating app featuring sophisticated matching logic, hard filters, and PostgreSQL constraints for data integrity.  
-[View Project →](#)
+[View Project →](https://github.com/MahmoudObeid1001/match-me-overview)
 
 ### Multiplayer Browser Game
 Real-time WebSocket-based game with server-authoritative state management and smooth client-side rendering.  
-[View Project →](#)
+[View Project →](https://github.com/MahmoudObeid1001/dom-arena-overview)
 
 ### Cars Viewer (Go)
 Go-based web application using templates, external API integration, goroutines/channels for concurrent operations, and filtering/comparison features.  
-[View Project →](#)
+[View Project →](https://github.com/MahmoudObeid1001/mm-automobile-overview)
 
 ---
 
